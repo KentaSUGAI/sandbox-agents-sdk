@@ -1,5 +1,11 @@
 ---
-description: 
+description: このルールはプロジェクトで必要な定義します
 globs: 
 alwaysApply: false
 ---
+
+README.を読んで概要把握します
+
+パッケージのインストールは venv 下で実施します
+
+git のコメントは改行しません
